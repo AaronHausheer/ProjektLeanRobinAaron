@@ -1,0 +1,45 @@
+## Build output
+bin/
+obj/
+
+## User-specific files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## Publish
+publish/
+*.Publish.xml
+
+## Test results
+TestResults/
+
+## NuGet
+*.nupkg
+*.snupkg
+
+## Environment / secrets
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+## Temporary files
+*.tmp
+*.temp
+/ProjektLeanRobinAaron/.vs/ProjektLeanRobinAaron/v17/.suo
+/ProjektLeanRobinAaron/.vs/ProjektLeanRobinAaron/v17/DocumentLayout.json
+/ProjektLeanRobinAaron/.vs/ProjektLeanRobinAaron/v17/DocumentLayout.backup.json
